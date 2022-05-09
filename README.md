@@ -2,11 +2,15 @@
 
 This is a repository to provide a course materials explaining tTEM (towed time-domain electromagnetics). 
 
-### Locally
+### Insturction for Installation
 
-To run them locally, you will need to have python installed, preferably through [anaconda](https://www.anaconda.com/download/).
+Log in to your stanford remote desktop. 
 
-You can then clone this reposiroty. From a command line, run
+Then press windows key and type anaconda; 
+
+You will see "Anconda Prompt" in the menu, then click it. 
+
+In the command line interface that you opend up, run
 
 ```
 git clone https://github.com/sgkang/gp_190_ttem_forward.git
