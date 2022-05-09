@@ -19,7 +19,7 @@ git clone https://github.com/sgkang/gp190_ttem_forward.git
 Then `cd` into `gp_190_ttem_forward`
 
 ```
-cd gp_190_ttem_forward
+cd gp190_ttem_forward
 ```
 
 To setup your software environment, we recommend you use the provided conda environment
