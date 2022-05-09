@@ -1,4 +1,4 @@
-name: gp_190_ttem_forward
+name: gp190_ttem_forward
 
 channels:
   - conda-forge
