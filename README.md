@@ -13,7 +13,7 @@ You will see "Anconda Prompt" in the menu, then click it.
 In the command line interface that you opend up, run
 
 ```
-git clone https://github.com/sgkang/gp_190_ttem_forward.git
+git clone https://github.com/sgkang/gp190_ttem_forward.git
 ```
 
 Then `cd` into `gp_190_ttem_forward`
@@ -26,7 +26,7 @@ To setup your software environment, we recommend you use the provided conda envi
 
 ```
 conda env create -f environment.yml
-conda activate gp_190_ttem_forward
+conda activate gp190_ttem_forward
 ```
 
 You can then launch Jupyter
