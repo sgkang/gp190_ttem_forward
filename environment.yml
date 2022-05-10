@@ -4,7 +4,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - git
   - cvxopt
   - deepdish
   - discretize=0.7.0
