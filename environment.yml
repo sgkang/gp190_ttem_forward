@@ -21,5 +21,6 @@ dependencies:
   - scipy>=1.7
   - scikit-learn<1.0
   - SimPEG=0.15.0
+  - verde
   - pip:
     - git+https://github.com/geoscixyz/geosci-labs
