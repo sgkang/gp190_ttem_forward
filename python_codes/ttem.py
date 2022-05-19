@@ -414,6 +414,9 @@ def plot_layer(sig, mesh, xscale='log', ax=None, showlayers=False, xlim=None,**k
 #       PLOTTING RESTIVITY MODEL
 #############################################################
 
+def set_mesh_1d(hz):
+    return TensorMesh([hz], x0=[0])
+
 class Stitched1DModel(properties.HasProperties):
 
     topography = properties.Array(
